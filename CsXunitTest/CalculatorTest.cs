@@ -4,7 +4,7 @@ using System.Linq;
 
 using Xunit;
 
-namespace TestWithParameter
+namespace CsXunitTest
 {
     public class CalculatorTest
     {

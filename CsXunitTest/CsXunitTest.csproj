@@ -7,8 +7,8 @@
     <ProjectGuid>{CC3666CA-5754-46A6-8269-BFCFC05CD690}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>TestWithParameter</RootNamespace>
-    <AssemblyName>TestWithParameter</AssemblyName>
+    <RootNamespace>CsXunitTest</RootNamespace>
+    <AssemblyName>CsXunitTest</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
